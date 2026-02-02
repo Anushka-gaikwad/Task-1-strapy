@@ -11,4 +11,4 @@ Configured PM2 to keep the Strapi application running on the EC2 instance.
 <img width="1920" height="1080" alt="Screenshot 2026-02-02 174517" src="https://github.com/user-attachments/assets/e1b189bb-b07e-4727-b02a-5cc2377fd85f" />
 Initialized a Git repository, added a README, and prepared the project for pushing to GitHub.
 Recorded a Loom video demonstrating the setup, admin panel, and content type.
-https://www.loom.com/share/f40e5d0642c64b10bb27eae74c74eeb2
+https://drive.google.com/file/d/13K5ZHpWviis4_8qGgJRKplB45vuALQK5/view?usp=sharing
